@@ -70,7 +70,7 @@ Structured data is generated automatically.
 ## Sample Invoice
 
 <img src="./sample-invoice-document.png" width="1000"/>
-<img src="./invoice_to_Purchase_Order.docs" width="1000"/>
+
 
 ---
 
