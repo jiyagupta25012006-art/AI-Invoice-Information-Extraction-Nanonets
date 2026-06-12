@@ -69,14 +69,14 @@ Structured data is generated automatically.
 
 ## Sample Invoice
 
-<img src="./screenshots/sample-invoice-document.png" width="1000"/>
-<img src="./screenshots/sample-invoice-document.png" width="1000"/>
+<img src="./sample-invoice-document.png" width="1000"/>
+<img src="./invoice_to_Purchase_Order.docs" width="1000"/>
 
 ---
 
 ## Extracted Information
 
-<img src="./screenshots/invoice-data-extraction-result.png" width="1000"/>
+<img src="./extraction-result.png" width="1000"/>
 
 ---
 
